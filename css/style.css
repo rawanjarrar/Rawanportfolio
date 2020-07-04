@@ -128,10 +128,7 @@ header .top h2
 
  @media(max-width:1000px)
  {
- 	.container
-	 {
-
-	 }
+ 	
  	.container .left,
 
 	 {
@@ -140,8 +137,9 @@ header .top h2
 	 }
 	 .container .right
 	 {
-	 	float: none;
 	 	position:static;
+	 	float: none;
+	 	
 
 	 	
 	 }
